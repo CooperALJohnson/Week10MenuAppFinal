@@ -30,7 +30,7 @@ public class Menu {
             System.out.println("Press enter to continue. . .");
             scanner.nextLine();
 
-        } while (!selection.equals("6"));
+        } while (!selection.equals("5"));
     }
 
     private void printMenu() {
